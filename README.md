@@ -1,2 +1,3 @@
 # Hello-World
 First test repository
+This is the comment message, that clearly describes my changes ...
